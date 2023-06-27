@@ -1,0 +1,44 @@
+*{
+    background-color: #99e47e; /*color de fondo*/
+}
+
+h1{
+    color: rgb(73, 8, 8); /*color texto*/
+    font-size: 50px;        /*tamaño del texto*/
+    text-align: center;     /*Alineacion del texto*/
+
+}
+hr{
+    color: #63F53B;      /*Cambiar el color de la linea*/
+
+}
+
+/* Para cambiar el estilo de los parrafos*/
+p{
+    font-size: 25px;
+    color: rgb(10, 4, 5);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: justify;
+}
+
+img{
+    width: 50%;  /*cambiar tamaño de imagen*/
+}
+
+ul{
+    width: 100%;
+    text-align: center;
+    
+}
+
+ul li{
+    font-size: 20px;
+    list-style: none; /*estilo de la lista*/
+    display: inline; /*muestrelo en una linea*/
+    
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
